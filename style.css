@@ -1,3 +1,7 @@
+body {
+    background-color: #EFE0FF;
+}
+
 #gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, 25vw);
