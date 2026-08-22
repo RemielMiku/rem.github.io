@@ -1,14 +1,42 @@
-{
-    "id": "ROYGBIV",
-    "title": "ROYGBIV",
-    "description": "Technically this is the first piece in the 'album cover'-like lineup, but it doesn't adhere to the 1:1 aspect ratio as with all the other pieces",
-    "date": "2026-01-23",
-    "path": "art/ROYGBIV.png"
-}
-{
-    "id": "Collision",
-    "title": "Collision",
-    "description": "Planets collide. Celestial beings watch. Eyes are glued. First of many 'album cover'-like pieces I've made.",
-    "date": "2026-08-03",
-    "path": "art/Collision.png"
-}
+[
+    {
+        "index": "1",
+        "id": "roygbiv",
+        "title": "ROYGBIV",
+        "description": "Technically speaking, this is the first piece in the 'album cover'-like lineup, but it doesn't adhere to the strict 1:1 aspect ratio unlike all the other pieces",
+        "date": "2026-01-23",
+        "path": "art/ROYGBIV.png"
+    },
+    {
+        "index": "2",
+        "id": "collision",
+        "title": "Collision",
+        "description": "Planets collide. Celestial beings watch. Eyes are glued. First of many 'album cover'-like pieces I've made.",
+        "date": "2026-08-02",
+        "path": "art/Collision6x.png"
+    },
+    {
+        "index": "3",
+        "id": "bloom",
+        "title": "Bloom",
+        "description": "This piece came about after attempting to manually restore one of the previous stages after creating 'Collide' as I remembered it. I realized that it was good enough a piece of its own and added it with the rest.",
+        "date": "2026-08-02",
+        "path": "art/Bloom6x.png"
+    },
+    {
+        "index": "4",
+        "id": "satura",
+        "title": "Satura",
+        "description": "I did this as a commision piece.",
+        "date": "2026-08-03",
+        "path": "art/SaturaRem6x.png"
+    },
+    {
+        "index": "5",
+        "id": "heart",
+        "title": "Heart",
+        "description": "This was made to serve as the icon for the public version of my 'liked songs' folder on Spotify.",
+        "date": "2026-08-22",
+        "path": "art/HeartSelf6x.png"
+    }
+]
