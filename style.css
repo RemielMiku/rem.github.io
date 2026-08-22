@@ -1,0 +1,12 @@
+#gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 25vw);
+    gap: 0.5vw;
+    justify-content: center;
+}
+
+#gallery img {
+    width: 25vw;
+    height: auto;
+    display: block;
+}
