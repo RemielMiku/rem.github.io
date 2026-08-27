@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+    document.addEventListener("DOMContentLoaded", () => {
     const glassEffect = liquidGL({
         target: ".buttons, #gallery",
         snapshot: "body",
